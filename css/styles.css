@@ -1,0 +1,33 @@
+
+
+
+body {
+/*background-color: rgb(245,241,223);*/
+font-family: 'Open Sans', sans-serif;
+
+}
+
+p {
+  font-weight:400;
+  line-height: 24px;
+}
+
+
+.briefbio { padding-top:30px;}
+
+i {margin-right:20px;}
+.style1 {font-size: 70px; color:rgba(70,70,81,0.8);}
+
+.fullWidth {
+  width: 100%;
+  max-width: 100%;
+
+}
+
+/* unvisited link */
+a:link, a:visited, a:hover, a:active {
+  color: #6A6067;
+}
+
+
+/* media queries */
