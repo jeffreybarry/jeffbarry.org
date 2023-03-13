@@ -30,4 +30,8 @@ a:link, a:visited, a:hover, a:active {
 }
 
 
+h1, h2 {
+  margin-top: 1.2rem;
+}
+
 /* media queries */
